@@ -12,7 +12,7 @@
         ],
         "datasets": [
             {
-                "label": "Population",
+                "label": "Revenue per transaction",
                 "data": [
                     636.39,
                     459.42,
@@ -35,7 +35,7 @@
             }
         ]
     },
-    "Transaction": {
+    "Transactions": {
         "labels": [
             "Sleman",
             "Bantul",
@@ -46,7 +46,7 @@
         ],
         "datasets": [
             {
-                "label": "Population",
+                "label": "Transactions",
                 "data": [
                     106519,
                     617594,
