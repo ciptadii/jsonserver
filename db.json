@@ -1,65 +1,211 @@
 {
-    "Revenue": {
-        "labels": [
-            "Sun. Sep 29",
-            "Mon. Sep 30",
-            "Tue. Oct 1",
-            "Wed Oct 2",
-            "Thu. Oct 3",
-            "Fri. Oct 4",
-            "Sat. Oct 5",
-            "Sun. Oct 6"
+  "Revenue": {
+    "labels": [
+      "Sun. Sep 29",
+      "Mon. Sep 30",
+      "Tue. Oct 1",
+      "Wed Oct 2",
+      "Thu. Oct 3",
+      "Fri. Oct 4",
+      "Sat. Oct 5",
+      "Sun. Oct 6"
+    ],
+    "datasets": [
+      {
+        "label": "Revenue per transaction",
+        "data": [
+          636.39,
+          459.42,
+          387.47,
+          283.81,
+          514.33,
+          446.49,
+          262.52,
+          224.40
         ],
-        "datasets": [
-            {
-                "label": "Revenue per transaction",
-                "data": [
-                    636.39,
-                    459.42,
-                    387.47,
-                    283.81,
-                    514.33,
-                    446.49,
-                    262.52,
-                    224.40
-                ],
-                "backgroundColor": [
-                    "#36a2eb"
-                ],
-                "fill": false
-            }
-        ]
-    },
-    "Transactions": {
-        "labels": [
-            "Sleman",
-            "Bantul",
-            "Gunung Kidul",
-            "Kulon Progo",
-            "Cambridge",
-            "New Bedford"
+        "backgroundColor": "#36a2eb",
+        "borderColor": "#36a2eb",
+        "fill": false
+      }
+    ]
+  },
+  "Transactions": {
+    "labels": [
+      "Sun. Sep 29",
+      "Mon. Sep 30",
+      "Tue. Oct 1",
+      "Wed Oct 2",
+      "Thu. Oct 3",
+      "Fri. Oct 4",
+      "Sat. Oct 5",
+      "Sun. Oct 6"
+    ],
+    "datasets": [
+      {
+        "label": "Transactions",
+        "data": [
+          61.00,
+          58.00,
+          53.00,
+          49.00,
+          67.00,
+          51.00,
+          48.00,
+          60.00
         ],
-        "datasets": [
-            {
-                "label": "Transactions",
-                "data": [
-                    106519,
-                    617594,
-                    105162,
-                    153060,
-                    181045,
-                    95072
-                ],
-                "backgroundColor": [
-                    "rgba(255, 99, 132, 0.6)",
-                    "rgba(54, 162, 235, 0.6)",
-                    "rgba(255, 206, 86, 0.6)",
-                    "rgba(75, 192, 192, 0.6)",
-                    "rgba(153, 102, 255, 0.6)",
-                    "rgba(255, 159, 64, 0.6)",
-                    "rgba(255, 99, 132, 0.6)"
-                ]
-            }
-        ]
-    }
+        "backgroundColor": "#36a2eb",
+        "borderColor": "#36a2eb",
+        "fill": false
+      }
+    ]
+  },
+  "Conversion-rate": {
+    "labels": [
+      "Sun. Sep 29",
+      "Mon. Sep 30",
+      "Tue. Oct 1",
+      "Wed Oct 2",
+      "Thu. Oct 3",
+      "Fri. Oct 4",
+      "Sat. Oct 5",
+      "Sun. Oct 6"
+    ],
+    "datasets": [
+      {
+        "label": "Transactions",
+        "data": [
+          2.93,
+          3.21,
+          3.20,
+          3.12,
+          4.19,
+          2.94,
+          2.77,
+          3.09
+        ],
+        "backgroundColor": "#36a2eb",
+        "borderColor": "#36a2eb",
+        "fill": false
+      }
+    ]
+  },
+  "ARPDAU": {
+    "labels": [
+      "Sun. Sep 29",
+      "Mon. Sep 30",
+      "Tue. Oct 1",
+      "Wed Oct 2",
+      "Thu. Oct 3",
+      "Fri. Oct 4",
+      "Sat. Oct 5",
+      "Sun. Oct 6"
+    ],
+    "datasets": [
+      {
+        "label": "Transactions",
+        "data": [
+          0.39,
+          0.31,
+          0.28,
+          0.21,
+          0.37,
+          0.31,
+          0.17,
+          0.14
+        ],
+        "backgroundColor": "#36a2eb",
+        "borderColor": "#36a2eb",
+        "fill": false
+      }
+    ]
+  },
+  "ARPPU": {
+    "labels": [
+      "Sun. Sep 29",
+      "Mon. Sep 30",
+      "Tue. Oct 1",
+      "Wed Oct 2",
+      "Thu. Oct 3",
+      "Fri. Oct 4",
+      "Sat. Oct 5",
+      "Sun. Oct 6"
+    ],
+    "datasets": [
+      {
+        "label": "Transactions",
+        "data": [
+          13.26,
+          9.77,
+          8.81,
+          6.75,
+          8.72,
+          10.63,
+          6.11,
+          4.40
+        ],
+        "backgroundColor": "#36a2eb",
+        "borderColor": "#36a2eb",
+        "fill": false
+      }
+    ]
+  },
+  "Paying-users": {
+    "labels": [
+      "Sun. Sep 29",
+      "Mon. Sep 30",
+      "Tue. Oct 1",
+      "Wed Oct 2",
+      "Thu. Oct 3",
+      "Fri. Oct 4",
+      "Sat. Oct 5",
+      "Sun. Oct 6"
+    ],
+    "datasets": [
+      {
+        "label": "Transactions",
+        "data": [
+          48,
+          47,
+          44,
+          42,
+          59,
+          42,
+          43,
+          51
+        ],
+        "backgroundColor": "#36a2eb",
+        "borderColor": "#36a2eb",
+        "fill": false
+      }
+    ]
+  },
+  "Revenue-per-item": {
+    "labels": [
+      "Sun. Sep 29",
+      "Mon. Sep 30",
+      "Tue. Oct 1",
+      "Wed Oct 2",
+      "Thu. Oct 3",
+      "Fri. Oct 4",
+      "Sat. Oct 5",
+      "Sun. Oct 6"
+    ],
+    "datasets": [
+      {
+        "label": "Transactions",
+        "data": [
+          299.97,
+          99.99,
+          99.99,
+          99.99,
+          199.98,
+          199.98,
+          99.99
+        ],
+        "backgroundColor": "#36a2eb",
+        "borderColor": "#36a2eb",
+        "fill": false
+      }
+    ]
+  }
 }
