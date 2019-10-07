@@ -59,7 +59,7 @@
       }
     ]
   },
-  "Conversion-rate": {
+  "conversionRate": {
     "labels": [
       "Sun. Sep 29",
       "Mon. Sep 30",
