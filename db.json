@@ -1,23 +1,27 @@
 {
     "Revenue": {
         "labels": [
-            "Boston",
-            "Worcester",
-            "Springfield",
-            "Lowell",
-            "Cambridge",
-            "New Bedford"
+            "Sun. Sep 29",
+            "Mon. Sep 30",
+            "Tue. Oct 1",
+            "Wed Oct 2",
+            "Thu. Oct 3",
+            "Fri. Oct 4",
+            "Sat. Oct 5",
+            "Sun. Oct 6"
         ],
         "datasets": [
             {
                 "label": "Population",
                 "data": [
-                    617594,
-                    181045,
-                    153060,
-                    106519,
-                    105162,
-                    95072
+                    636.39,
+                    459.42,
+                    387.47,
+                    283.81,
+                    514.33,
+                    446.49,
+                    262.52,
+                    224.40
                 ],
                 "backgroundColor": [
                     "rgba(255, 99, 132, 0.6)",
