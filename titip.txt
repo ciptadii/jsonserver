@@ -1,0 +1,59 @@
+// "Paying-users": {
+  //   "labels": [
+  //     "Sun. Sep 29",
+  //     "Mon. Sep 30",
+  //     "Tue. Oct 1",
+  //     "Wed Oct 2",
+  //     "Thu. Oct 3",
+  //     "Fri. Oct 4",
+  //     "Sat. Oct 5",
+  //     "Sun. Oct 6"
+  //   ],
+  //   "datasets": [
+  //     {
+  //       "label": "Transactions",
+  //       "data": [
+  //         48,
+  //         47,
+  //         44,
+  //         42,
+  //         59,
+  //         42,
+  //         43,
+  //         51
+  //       ],
+  //       "backgroundColor": "#36a2eb",
+  //       "borderColor": "#36a2eb",
+  //       "fill": false
+  //     }
+  //   ]
+  // },
+  // "Revenue-per-item": {
+  //   "labels": [
+  //     "Sun. Sep 29",
+  //     "Mon. Sep 30",
+  //     "Tue. Oct 1",
+  //     "Wed Oct 2",
+  //     "Thu. Oct 3",
+  //     "Fri. Oct 4",
+  //     "Sat. Oct 5",
+  //     "Sun. Oct 6"
+  //   ],
+  //   "datasets": [
+  //     {
+  //       "label": "Transactions",
+  //       "data": [
+  //         299.97,
+  //         99.99,
+  //         99.99,
+  //         99.99,
+  //         199.98,
+  //         199.98,
+  //         99.99
+  //       ],
+  //       "backgroundColor": "#36a2eb",
+  //       "borderColor": "#36a2eb",
+  //       "fill": false
+  //     }
+  //   ]
+  // }
