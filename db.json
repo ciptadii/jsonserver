@@ -10,143 +10,25 @@
       "Sat. Oct 5",
       "Sun. Oct 6"
     ],
-    "datasets": [
-      {
-        "label": "Revenue per transaction",
-        "data": [
-          636.39,
-          459.42,
-          387.47,
-          283.81,
-          514.33,
-          446.49,
-          262.52,
-          224.40
-        ],
-        "backgroundColor": "#36a2eb",
-        "borderColor": "#36a2eb",
-        "fill": false
-      }
-    ]
-  },
-  "Transactions": {
-    "labels": [
-      "Sun. Sep 29",
-      "Mon. Sep 30",
-      "Tue. Oct 1",
-      "Wed Oct 2",
-      "Thu. Oct 3",
-      "Fri. Oct 4",
-      "Sat. Oct 5",
-      "Sun. Oct 6"
+    "thisWeek": [
+      636.39,
+      459.42,
+      387.47,
+      283.81,
+      514.33,
+      446.49,
+      262.52,
+      224.40
     ],
-    "datasets": [
-      {
-        "label": "Transactions",
-        "data": [
-          61.00,
-          58.00,
-          53.00,
-          49.00,
-          67.00,
-          51.00,
-          48.00,
-          60.00
-        ],
-        "backgroundColor": "#36a2eb",
-        "borderColor": "#36a2eb",
-        "fill": false
-      }
-    ]
-  },
-  "conversionRate": {
-    "labels": [
-      "Sun. Sep 29",
-      "Mon. Sep 30",
-      "Tue. Oct 1",
-      "Wed Oct 2",
-      "Thu. Oct 3",
-      "Fri. Oct 4",
-      "Sat. Oct 5",
-      "Sun. Oct 6"
-    ],
-    "datasets": [
-      {
-        "label": "Conversion rate",
-        "data": [
-          2.93,
-          3.21,
-          3.20,
-          3.12,
-          4.19,
-          2.94,
-          2.77,
-          3.09
-        ],
-        "backgroundColor": "#36a2eb",
-        "borderColor": "#36a2eb",
-        "fill": false
-      }
-    ]
-  },
-  "ARPDAU": {
-    "labels": [
-      "Sun. Sep 29",
-      "Mon. Sep 30",
-      "Tue. Oct 1",
-      "Wed Oct 2",
-      "Thu. Oct 3",
-      "Fri. Oct 4",
-      "Sat. Oct 5",
-      "Sun. Oct 6"
-    ],
-    "datasets": [
-      {
-        "label": "ARPDAU",
-        "data": [
-          0.39,
-          0.31,
-          0.28,
-          0.21,
-          0.37,
-          0.31,
-          0.17,
-          0.14
-        ],
-        "backgroundColor": "#36a2eb",
-        "borderColor": "#36a2eb",
-        "fill": false
-      }
-    ]
-  },
-  "ARPPU": {
-    "labels": [
-      "Sun. Sep 29",
-      "Mon. Sep 30",
-      "Tue. Oct 1",
-      "Wed Oct 2",
-      "Thu. Oct 3",
-      "Fri. Oct 4",
-      "Sat. Oct 5",
-      "Sun. Oct 6"
-    ],
-    "datasets": [
-      {
-        "label": "ARPPU",
-        "data": [
-          13.26,
-          9.77,
-          8.81,
-          6.75,
-          8.72,
-          10.63,
-          6.11,
-          4.40
-        ],
-        "backgroundColor": "#36a2eb",
-        "borderColor": "#36a2eb",
-        "fill": false
-      }
+    "lastWeek": [
+      636.39,
+      459.42,
+      387.47,
+      283.81,
+      514.33,
+      446.49,
+      262.52,
+      224.40
     ]
   }
 }
