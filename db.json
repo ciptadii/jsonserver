@@ -54,5 +54,12 @@
     "Transactions": 60.00,
     "conversionRate": 3.09,
     "ARPDAU": 0.14
+  },
+  "today": {
+    "day": "Tue. Oct 6",
+    "Revenue": 224.40,
+    "Transactions": 60.00,
+    "conversionRate": 3.09,
+    "ARPDAU": 0.14
   }
 }
