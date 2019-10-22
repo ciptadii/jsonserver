@@ -1,37 +1,52 @@
-{
-  "2019-01-29": {
-    "day": "Sun. Sep 29",
-    "Revenue": 636.39,
-    "Transactions": 61.00,
-    "conversionRate": 2.93,
-    "ARPDAU": 0.39
+[
+  {
+    "2019-01-29":
+      {
+        "day": "Sun. Sep 29",
+        "Revenue": 636.39,
+        "Transactions": 61.00,
+        "conversionRate": 2.93,
+        "ARPDAU": 0.39
+      }
   },
-  "2019-09-30": {
-    "day": "Mon. Sep 30",
-    "Revenue": 459.42,
-    "Transactions": 58.00,
-    "conversionRate": 3.21,
-    "ARPDAU": 0.31
+  {
+    "2019-09-30":
+      {
+        "day": "Mon. Sep 30",
+        "Revenue": 459.42,
+        "Transactions": 58.00,
+        "conversionRate": 3.21,
+        "ARPDAU": 0.31
+      }
   },
-  "2019-10-01": {
-    "day": "Tue. Oct 1",
-    "Revenue": 387.47,
-    "Transactions": 53.00,
-    "conversionRate": 3.20,
-    "ARPDAU": 0.28
+  {
+    "2019-10-01": 
+    {
+      "day": "Tue. Oct 1",
+      "Revenue": 387.47,
+      "Transactions": 53.00,
+      "conversionRate": 3.20,
+      "ARPDAU": 0.28
+    }
   },
-  "2019-10-02": {
-    "day": "Tue. Oct 2",
-    "Revenue": 283.81,
-    "Transactions": 53.00,
-    "conversionRate": 3.12,
-    "ARPDAU": 0.21
+  {
+    "2019-10-02": 
+    {
+      "day": "Tue. Oct 2",
+      "Revenue": 283.81,
+      "Transactions": 53.00,
+      "conversionRate": 3.12,
+      "ARPDAU": 0.21
+    }
   },
-  "today": {
-    "day": "Tue. Oct 3",
-    "Revenue": 514.33,
-    "Transactions": 67.00,
-    "conversionRate": 4.19,
-    "ARPDAU": 0.37
+  {
+    "today": 
+    {
+      "day": "Tue. Oct 3",
+      "Revenue": 514.33,
+      "Transactions": 67.00,
+      "conversionRate": 4.19,
+      "ARPDAU": 0.37
+    }
   }
-}
+]
