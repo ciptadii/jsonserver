@@ -1,52 +1,30 @@
 {
-  "thisWeek": [
-    "Sun. Sep 29",
-    "Mon. Sep 30",
-    "Tue. Oct 1",
-    "Wed Oct 2",
-    "Thu. Oct 3",
-    "Fri. Oct 4",
-    "Sat. Oct 5",
-    "Sun. Oct 6"
-  ],
-  "revenue": [
-    636.39,
-    459.42,
-    387.47,
-    283.81,
-    514.33,
-    446.49,
-    262.52,
-    224.40
-  ],
-  "transactions": [
-    61.00,
-    58.00,
-    53.00,
-    49.00,
-    67.00,
-    51.00,
-    48.00,
-    60.00
-  ],
-  "conversionRate": [
-    2.93,
-    3.21,
-    3.20,
-    3.12,
-    4.19,
-    2.94,
-    2.77,
-    3.09
-  ],
-  "ARPDAU": [
-    0.39,
-    0.31,
-    0.28,
-    0.21,
-    0.37,
-    0.31,
-    0.17,
-    0.14
-  ]
+  "2019-01-29": {
+    "day": "Sun. Sep 29",
+    "Revenue": 636.39,
+    "Transactions": 61.00,
+    "conversionRate": 2.93,
+    "ARPDAU": 0.39
+  },
+  "2019-09-30": {
+    "day": "Mon. Sep 30",
+    "Revenue": 459.42,
+    "Transactions": 58.00,
+    "conversionRate": 3.21,
+    "ARPDAU": 0.31
+  },
+  "2019-10-01": {
+    "day": "Tue. Oct 1",
+    "Revenue": 387.47,
+    "Transactions": 53.00,
+    "conversionRate": 3.20,
+    "ARPDAU": 0.28
+  },
+  "2019-10-02": {
+    "day": "Tue. Oct 2",
+    "Revenue": 283.81,
+    "Transactions": 53.00,
+    "conversionRate": 3.12,
+    "ARPDAU": 0.21
+  }
 }
